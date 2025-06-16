@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shannon Drouin / Site Title"
+title                    : "BALD Lab"
 title_separator          : "-"
 name                     : &name "Shannon Drouin"
 description              : &description "personal description"
@@ -23,17 +23,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Shannon Drouin, PhD"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Fredericton, NB"
+  employer         : "University of New Brunswick"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shannon.drouin@nih.gov" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=P6QXamIAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0001-8767-5884"
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -46,7 +46,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Abstracts and Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
